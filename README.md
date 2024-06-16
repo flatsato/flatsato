@@ -8,13 +8,13 @@
 
 
 ## GitHub Log
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=flatsato&show_icons=true&locale=en&layout=compact&theme=tokyonight) 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=flatsato&show_icons=true&locale=en&layout=compact&theme=onestar) 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=flatsato&theme=tokyonight) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=flatsato&theme=onestar) 
 
-![](https://github-readme-stats.vercel.app/api?username=flatsato&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=flatsato&show_icons=true&theme=onestar)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=flatsato&theme=tokyonight&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=flatsato&theme=onestar&column=8)
 
 ## Skills
 ![](https://skillicons.dev/icons?i=html,css,js,sass,pug,tailwind,astro,bootstrap,wordpress&theme=dark)
