@@ -7,6 +7,7 @@
 
 ## GitHub Log
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=flatsato&show_icons=true&locale=en&layout=compact&theme=tokyonight) 
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=flatsato&theme=tokyonight) ![](https://github-readme-stats.vercel.app/api?username=flatsato&show_icons=true&theme=tokyonight)
 
 ## Skills
