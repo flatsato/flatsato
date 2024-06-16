@@ -14,7 +14,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=flatsato&show_icons=true&theme=onestar)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=flatsato&theme=onestar&column=8)
+![trophy](https://github-profile-trophy.vercel.app/?username=flatsato&theme=onestar&column=8)
 
 ## Skills
 ![](https://skillicons.dev/icons?i=html,css,js,sass,pug,tailwind,astro,bootstrap,wordpress&theme=dark)
