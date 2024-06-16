@@ -1,6 +1,6 @@
 
 
-# My Name is Harumi Sato
+# Harumi Sato
 
 - I Love Frontend ＆ UX design🧑🏻‍💻
 
