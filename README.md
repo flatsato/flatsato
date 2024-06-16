@@ -23,4 +23,4 @@
 
 https://github.com/tandpfun/skill-icons
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+https://github.com/anuraghazra/github-readme-stats
