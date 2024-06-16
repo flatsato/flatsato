@@ -22,6 +22,8 @@
 ## Tools
 ![](https://skillicons.dev/icons?i=figma,github,codepen,devto,discord,phpstorm&theme=dark)
 
-https://github.com/tandpfun/skill-icons
-
 https://github.com/anuraghazra/github-readme-stats
+
+https://github.com/ryo-ma/github-profile-trophy
+
+https://github.com/tandpfun/skill-icons
