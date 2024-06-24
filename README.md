@@ -17,7 +17,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=flatsato&theme=onestar&column=8)
 
 ## Skills
-![](https://skillicons.dev/icons?i=html,css,js,sass,pug,tailwind,astro,bootstrap,wordpress&theme=dark)
+![](https://skillicons.dev/icons?i=html,css,js,jquery,sass,pug,tailwind,astro,bootstrap,wordpress&theme=dark)
 
 ## Tools
 ![](https://skillicons.dev/icons?i=figma,github,codepen,devto,discord,phpstorm&theme=dark)
