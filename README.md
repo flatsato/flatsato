@@ -8,7 +8,7 @@
 
 
 ## GitHub Log
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=flatsato&show_icons=true&locale=en&layout=compact&theme=github_dark) 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=flatsato&show_icons=true&locale=en&layout=compact&theme=github_light) 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=flatsato&theme=github_dark) 
 
