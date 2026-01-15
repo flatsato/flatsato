@@ -3,7 +3,7 @@
 - I Love Frontend ＆ UX design🧑🏻‍💻
 
 ## Skills
-![](https://skillicons.dev/icons?i=html,htmx,css,js,sass,pug,tailwind,astro,bootstrap,wordpress&theme=light)
+![](https://skillicons.dev/icons?i=html,htmx,css,js,sass,tailwind,astro,bootstrap,wordpress&theme=light)
 
 ## Tools
 ![](https://skillicons.dev/icons?i=figma,github,codepen,devto,discord,phpstorm&theme=light)
