@@ -6,7 +6,7 @@
 
 ## Skills
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,astro,bootstrap,wordpress,sass,php)
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,astro,bootstrap,wordpress,php)
 
 ## AI Tools
 
@@ -20,9 +20,3 @@
 ## Tools
 
 ![Tools](https://skillicons.dev/icons?i=apple,figma,github,vscode,notion,discord,ps)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flatsato&show_icons=true&theme=default)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=flatsato)
