@@ -19,7 +19,7 @@
 
 ## Tools
 
-![Tools](https://skillicons.dev/icons?i=figma,github,vscode,notion,slack,discord,ps)
+![Tools](https://skillicons.dev/icons?i=apple,figma,github,vscode,notion,discord,ps)
 
 ---
 
